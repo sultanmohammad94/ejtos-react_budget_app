@@ -36,4 +36,4 @@ const ExpenseItem = (props) => {
     );
 };
 
-export default ExpenseItem;w
+export default ExpenseItem;
